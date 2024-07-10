@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Java ,which is the lesson teacher will teach me.
 
 Welcome everyone to communicate with me!
+(Although my network is not very good...)
